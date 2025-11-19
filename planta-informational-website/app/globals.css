@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Prompt', sans-serif;
+}
+
+.bg-planta {
+  background-color: #126E23;
+}
+.text-planta {
+  color: #126E23;
+}
+.bg-planta-gold {
+  background-color: #ECC291;
+}
+.text-planta-gold {
+  color: #ECC291;
+}
+.border-planta-gold {
+  border-color: #ECC291;
+}
